@@ -30,6 +30,7 @@ Penyu menjawab dengan tenang,
 
 Sejak hari itu, kelinci belajar untuk tidak lagi meremehkan siapapun.  
 
+
 [Text inspired by a classic fable](https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare)  
 
 [^1]: Sering kali ejekan datang dari rasa sombong, bukan karena kebenaran.
