@@ -28,9 +28,9 @@ Saat kelinci terbangun, penyu sudah hampir mencapai garis akhir. Kelinci berlari
 Penyu menjawab dengan tenang,  
 “Kesabaran dan ketekunan bisa mengalahkan kecepatan tanpa kesungguhan.”  
 
-Sejak hari itu, kelinci belajar untuk tidak lagi meremehkan siapapun.  
-
-
+Sejak hari itu, kelinci belajar untuk tidak lagi meremehkan siapapun. 
+<br />
+<br />
 [Text inspired by a classic fable](https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare)  
 
 [^1]: Sering kali ejekan datang dari rasa sombong, bukan karena kebenaran.
