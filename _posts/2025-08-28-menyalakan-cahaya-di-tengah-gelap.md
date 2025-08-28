@@ -28,5 +28,4 @@ Ia mendirikan ruang belajar sederhana, agar anak-anak lain tidak harus membaca d
 Hidup sering kali memberi kita alasan untuk berhenti.  
 Namun, seperti Lila, **selama kita mau menjaga cahaya kecil dalam diri, kegelapan sebesar apa pun bisa diterangi**.  
 
-Jangan takut memulai, jangan takut bermimpi.  
-Karena perubahan besar selalu dimulai dari langkah kecil.
+Jangan takut memulai, jangan takut bermimpi. Karena perubahan besar selalu dimulai dari langkah kecil.
