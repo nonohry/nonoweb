@@ -5,8 +5,6 @@ author: "Nono Heryana"
 categories: inspirasi
 ---
 
-# Menyalakan Cahaya di Tengah Gelap
-
 Di sebuah desa kecil, hiduplah seorang anak bernama Lila. Ia lahir dari keluarga sederhana yang seringkali kekurangan.  
 Namun, Lila memiliki satu kebiasaan: **tidak pernah menyerah untuk belajar**.  
 
@@ -14,8 +12,6 @@ Setiap malam, ketika listrik padam, ia tetap membaca buku dengan cahaya lilin ke
 “Untuk apa kau repot-repot? Tidak akan banyak berubah.”  
 
 Tapi Lila percaya, **pengetahuan adalah cahaya yang lebih terang dari lilin mana pun**.  
-
----
 
 ## Perjalanan
 
@@ -26,16 +22,12 @@ tutor kecil di kelas.
 Suatu ketika, seorang guru berkata:  
 > “Lila, semangatmu adalah bukti bahwa keterbatasan bukan alasan untuk berhenti bermimpi.”  
 
----
-
 ## Cahaya Itu Menyebar
 
 Tahun berganti, Lila berhasil meraih beasiswa untuk kuliah. Ia kembali ke desanya, bukan untuk meninggalkan,  
 tetapi untuk **menyalakan cahaya bagi orang lain**.  
 
 Ia mendirikan ruang belajar sederhana, agar anak-anak lain tidak harus membaca dengan satu lilin seperti dirinya dulu.  
-
----
 
 ## Pesan Inspiratif
 
