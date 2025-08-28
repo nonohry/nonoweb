@@ -13,26 +13,20 @@ Setiap malam, ketika listrik padam, ia tetap membaca buku dengan cahaya lilin ke
 
 Tapi Lila percaya, **pengetahuan adalah cahaya yang lebih terang dari lilin mana pun**.  
 
-## Perjalanan
-
 Hari demi hari, ia terus belajar. Meskipun harus berjalan beberapa kilometer untuk meminjam buku dari perpustakaan sekolah,  
 ia melakukannya dengan senyum. Ia mulai membantu teman-temannya memahami pelajaran, hingga akhirnya dipercaya menjadi  
 tutor kecil di kelas.  
 
 Suatu ketika, seorang guru berkata:  
-> “Lila, semangatmu adalah bukti bahwa keterbatasan bukan alasan untuk berhenti bermimpi.”  
-
-## Cahaya Itu Menyebar
+“Lila, semangatmu adalah bukti bahwa keterbatasan bukan alasan untuk berhenti bermimpi.”  
 
 Tahun berganti, Lila berhasil meraih beasiswa untuk kuliah. Ia kembali ke desanya, bukan untuk meninggalkan,  
 tetapi untuk **menyalakan cahaya bagi orang lain**.  
 
 Ia mendirikan ruang belajar sederhana, agar anak-anak lain tidak harus membaca dengan satu lilin seperti dirinya dulu.  
 
-## Pesan Inspiratif
-
 Hidup sering kali memberi kita alasan untuk berhenti.  
 Namun, seperti Lila, **selama kita mau menjaga cahaya kecil dalam diri, kegelapan sebesar apa pun bisa diterangi**.  
 
-✨ Jangan takut memulai, jangan takut bermimpi.  
-Karena perubahan besar selalu dimulai dari langkah kecil.
+"Jangan takut memulai, jangan takut bermimpi.  
+Karena perubahan besar selalu dimulai dari langkah kecil."
