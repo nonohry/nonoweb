@@ -1,6 +1,3 @@
-{% comment %}
-Gunakan paginator yang dikirim dari layout; kalau tidak ada, fallback ke site.posts (non-paginated).
-{% endcomment %}
 {% assign page_paginator = include.paginator %}
 {% if page_paginator %}
   {% assign posts_to_render = page_paginator.posts %}
@@ -30,15 +27,23 @@ Gunakan paginator yang dikirim dari layout; kalau tidak ada, fallback ke site.po
 
 {% if page_paginator %}
 <nav class="pagination center" aria-label="Pagination">
-  {% if page_paginator.previous_page %}
+  {% if page_paginator.previous_page_path %}
     <a class="btn" href="{{ page_paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a>
   {% endif %}
 
-  <span class="page-number">
-    Page {{ page_paginator.page }} of {{ page_paginator.total_pages }}
-  </span>
+  {% if page_paginator.page_trail %}
+    {% for node in page_paginator.page_trail %}
+      <a class="btn {% if node.num == page_paginator.page %}active{% endif %}"
+         href="{{ node.path | prepend: site.baseurl }}"
+         title="{{ node.title }}">
+        {{ node.num }}
+      </a>
+    {% endfor %}
+  {% else %}
+    <span class="page-number">Page {{ page_paginator.page }} of {{ page_paginator.total_pages }}</span>
+  {% endif %}
 
-  {% if page_paginator.next_page %}
+  {% if page_paginator.next_page_path %}
     <a class="btn" href="{{ page_paginator.next_page_path | prepend: site.baseurl }}">Older →</a>
   {% endif %}
 </nav>
