@@ -5,7 +5,7 @@ author: Nono Heryana
 date:   2025-08-30
 category: Sejarah
 keywords: Belanda, Indonesia, Kolonialisme, Sejarah, Kemerdekaan
-abstract: Apa jadinya jika Indonesia masih berada di bawah cengkeraman Belanda? Artikel ini akan mengungkapkan “kebaikan” yang mungkin terjadi jika Indonesia belum merdeka.
+abstract: Apa jadinya jika Indonesia masih berada di bawah cengkeraman Belanda? 
 ---
 
 Ah, Indonesia di bawah ketiak Belanda. Pasti hidup kita akan sangat indah dan damai, bukan? Bayangkan jika kita masih berada di bawah cengkraman mereka—dengan segala kenyamanan yang mereka tawarkan. Tak ada lagi yang perlu dipikirkan, tidak ada keruwetan politik, tidak ada perdebatan soal kebebasan. Semua keputusan diambil oleh Belanda, tentu dengan kepentingan mereka sendiri yang jauh lebih penting daripada kepentingan kita. Bukankah itu hal yang luar biasa?
