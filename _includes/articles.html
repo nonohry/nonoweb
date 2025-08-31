@@ -1,33 +1,45 @@
+{% comment %}
+Gunakan paginator yang dikirim dari layout; kalau tidak ada, fallback ke site.posts (non-paginated).
+{% endcomment %}
+{% assign page_paginator = include.paginator %}
+{% if page_paginator %}
+  {% assign posts_to_render = page_paginator.posts %}
+{% else %}
+  {% assign posts_to_render = site.posts %}
+{% endif %}
+
 <div class="articles">
-
-  {% for post in site.posts %}
-
-      {% cycle 'add row' : '<div class="row">', '', ''%}
-      <div class="four columns">
-        <a href="{{ site.baseurl }}{{ post.url }}" class="link">
+  {% for post in posts_to_render %}
+    {% cycle 'row-open' : '<div class="row">', nil, nil %}
+    <div class="four columns">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="link">
         <h3>{{ post.title }}</h3>
         <div class="justify">
-            {% if post.abstract %}
-              {{ post.abstract }}
-            {% else %}
-              {{ post.content | truncatewords:50 | strip_newlines }}
-            {% endif %}
-          </div>
-        </a>
-      </div>
-      {% cycle 'end row' : '', '', '</div>' %}
+          {% if post.abstract %}
+            {{ post.abstract }}
+          {% else %}
+            {{ post.content | strip_html | truncatewords: 50 | strip_newlines }}
+          {% endif %}
+        </div>
+      </a>
+    </div>
+    {% cycle 'row-close' : nil, nil, '</div>' %}
   {% endfor %}
-  {% cycle 'end row' : '', '</div>', '</div>', '</div>' %}
+  {% cycle 'row-close' : nil, '</div>', '</div>', '</div>' %}
 </div>
 
+{% if page_paginator %}
 <nav class="pagination center" aria-label="Pagination">
-  {% if paginator.previous_page %}
-    <a class="btn" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a>
+  {% if page_paginator.previous_page %}
+    <a class="btn" href="{{ page_paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a>
   {% endif %}
 
-  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page-number">
+    Page {{ page_paginator.page }} of {{ page_paginator.total_pages }}
+  </span>
 
-  {% if paginator.next_page %}
-    <a class="btn" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older →</a>
+  {% if page_paginator.next_page %}
+    <a class="btn" href="{{ page_paginator.next_page_path | prepend: site.baseurl }}">Older →</a>
   {% endif %}
 </nav>
+{% endif %}
