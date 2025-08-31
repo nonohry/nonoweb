@@ -61,3 +61,5 @@ plugins_dir:
 
 paginate: 6                # jumlah posting per halaman
 paginate_path: "/page:num/" # URL halaman: /page2, /page3, dst
+
+permalink: /:year/:month/:day/:title.html
