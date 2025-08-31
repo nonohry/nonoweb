@@ -2,7 +2,7 @@
 
   {% for post in site.posts %}
 
-      {% cycle 'add row' : '<div class="row">', '', nil%}
+      {% cycle 'add row' : '<div class="row">', '', ''%}
       <div class="four columns">
         <a href="{{ site.baseurl }}{{ post.url }}" class="link">
         <h3>{{ post.title }}</h3>
