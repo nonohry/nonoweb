@@ -22,7 +22,7 @@ tagline: Belajar Tanpa Batas.
 location: Dutch East Indies
 date: true
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://nono.my.id" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nono.my.id" # the base hostname & protocol for your site, e.g. http://example.com
 author: Nono Heryana
 google_analytics: UA-none
 
