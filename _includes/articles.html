@@ -10,7 +10,7 @@ Gunakan paginator yang dikirim dari layout; kalau tidak ada, fallback ke site.po
 
 <div class="articles">
   {% for post in posts_to_render %}
-    {% cycle 'row-open' : '<div class="row">', nil, nil %}
+    {% cycle 'row-open' : '<div class="row">', '', '' %}
     <div class="four columns">
       <a href="{{ site.baseurl }}{{ post.url }}" class="link">
         <h3>{{ post.title }}</h3>
@@ -23,9 +23,9 @@ Gunakan paginator yang dikirim dari layout; kalau tidak ada, fallback ke site.po
         </div>
       </a>
     </div>
-    {% cycle 'row-close' : nil, nil, '</div>' %}
+    {% cycle 'row-close' : '', '', '</div>' %}
   {% endfor %}
-  {% cycle 'row-close' : nil, '</div>', '</div>', '</div>' %}
+  {% cycle 'row-close' : '', '</div>', '</div>', '</div>' %}
 </div>
 
 {% if page_paginator %}
