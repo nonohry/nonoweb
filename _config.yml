@@ -51,9 +51,13 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
 plugins_dir:
   - jekyll-roman
   - jekyll-seo-tag
+
+paginate: 6                # jumlah posting per halaman
+paginate_path: "/page:num/" # URL halaman: /page2, /page3, dst

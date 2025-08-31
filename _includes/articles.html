@@ -7,11 +7,27 @@
         <a href="{{ site.baseurl }}{{ post.url }}" class="link">
         <h3>{{ post.title }}</h3>
         <div class="justify">
-          {% if post.abstract %}{{ post.abstract }}{% else %}{{ post.content | truncatewords:50 | strip_newlines }}{% endif %}
-        </div>
+            {% if post.abstract %}
+              {{ post.abstract }}
+            {% else %}
+              {{ post.content | truncatewords:50 | strip_newlines }}
+            {% endif %}
+          </div>
         </a>
       </div>
       {% cycle 'end row' : '', '', '</div>' %}
   {% endfor %}
   {% cycle 'end row' : '', '</div>', '</div>', '</div>' %}
 </div>
+
+<nav class="pagination center" aria-label="Pagination">
+  {% if paginator.previous_page %}
+    <a class="btn" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a>
+  {% endif %}
+
+  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+  {% if paginator.next_page %}
+    <a class="btn" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older →</a>
+  {% endif %}
+</nav>
