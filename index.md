@@ -1,6 +1,6 @@
 ---
 layout: default
-# title: Blog
+title: Blog
 pagination:
   enabled: true
   collection: 'posts'   # atau koleksi lain jika perlu
