@@ -1,9 +1,3 @@
 ---
 layout: default
-title: Blog
-pagination:
-  enabled: true
-  collection: 'posts'   # atau koleksi lain jika perlu
-  per_page: 9           # boleh override nilai global
-  permalink: '/page:num/'
 ---
