@@ -21,9 +21,9 @@ author: Nono Heryana
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Nono Blog: "https://nono.my.id"
-  Author's home: "https://nono.my.id"
+  #Resources:
+  #  - Nono Blog: "https://nono.my.id"
+  #Author's home: "https://nono.my.id"
 
 ################
 # --- Logo --- #
