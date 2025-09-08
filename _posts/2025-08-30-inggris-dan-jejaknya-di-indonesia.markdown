@@ -1,7 +1,6 @@
 ---
 title: "Inggris dan Jejaknya di Indonesia"
 date: 2025-08-30
-layout: post
 categories: Sejarah
 tags: [Sejarah]
 ---

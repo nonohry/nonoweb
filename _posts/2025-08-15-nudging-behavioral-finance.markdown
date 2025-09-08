@@ -1,7 +1,6 @@
 ---
 title: "Nudging dalam Behavioral Finance dan Implikasinya bagi Keputusan Keuangan"
 date: 2025-08-15
-layout: post
 categories: Finansial
 tags: [Behavioral Finance]
 ---

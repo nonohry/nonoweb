@@ -2,7 +2,6 @@
 title: "Transformasi Financial Technology dan Dampaknya terhadap Perilaku Konsumen"
 author: Nono Heryana
 date: 2025-08-31
-layout: post
 categories: Finansial
 tags: [Finansial]
 ---

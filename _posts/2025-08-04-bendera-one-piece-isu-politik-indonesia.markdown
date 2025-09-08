@@ -1,7 +1,6 @@
 ---
 title: "Mengapa Bendera One Piece Menggema di Indonesia"
 date: 2025-08-04
-layout: post
 categories: Opini
 tags: [Opini]
 ---

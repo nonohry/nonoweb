@@ -1,7 +1,6 @@
 ---
 title: "Agama = Faith, Sains = Fact, Harmoni antara Kepercayaan dan Ilmu Pengetahuan"
 date: 2025-08-30
-layout: post
 categories: Opini
 tags: [Opini]
 ---

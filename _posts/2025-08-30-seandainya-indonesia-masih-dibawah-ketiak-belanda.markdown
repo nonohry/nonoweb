@@ -1,7 +1,6 @@
 ---
 title: "Seandainya Indonesia Masih di Bawah Ketiak Belanda"
 date: 2025-08-30
-layout: post
 categories: Sejarah
 tags: [Sejarah]
 ---

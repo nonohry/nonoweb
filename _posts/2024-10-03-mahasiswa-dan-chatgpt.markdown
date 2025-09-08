@@ -1,7 +1,6 @@
 ---
 title: "Mahasiswa dan ChatGPT: Menghadapi Dunia Pendidikan Tanpa Otak"
 date: 2024-10-03
-layout: post
 categories: Teknologi
 tags: [Teknologi, Pendidikan]
 ---

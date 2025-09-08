@@ -1,7 +1,6 @@
 ---
 title: "Proteksi Data Pribadi di Era Digital dan Tantangan Keamanan Finansial"
 date: 2025-08-31
-layout: post
 categories: Finansial
 tags: [Finansial]
 ---

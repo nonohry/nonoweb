@@ -1,7 +1,6 @@
 ---
 title: "Kemerdekaan Merdeka Apa Sih"
 date: 2025-08-01
-layout: post
 categories: Opini
 tags: [Opini]
 ---

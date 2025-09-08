@@ -1,7 +1,6 @@
 ---
 title: "Tips Membuat PIN ATM yang Aman untuk Melindungi Rekening"
 date: 2025-08-31
-layout: post
 categories: Finansial
 tags: [Finansial]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Behavioral Finance dan Relevansinya dalam Kehidupan Sehari-hari"
 date: 2025-08-30
-layout: post
 categories: Finansial
 tags: [Behavioral Finance]
 ---

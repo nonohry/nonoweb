@@ -1,7 +1,6 @@
 ---
 title: "Peran Big Data dalam Behavioral Finance dan Transformasi Keputusan Keuangan"
 date: 2025-08-22
-layout: post
 categories: Finansial
 tags: [Big Data, Behavioral Finance]
 ---

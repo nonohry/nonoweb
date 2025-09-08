@@ -1,7 +1,6 @@
 ---
 title: "Minesweeper dan Pelajaran Strategi dari Sebuah Game Klasik"
 date: 2025-08-31
-layout: post
 categories: Teknologi
 tags: [Teknologi]
 ---

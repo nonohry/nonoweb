@@ -1,7 +1,6 @@
 ---
 title: "Dijkstra dan Jalan Sesat dalam Pencarian Jalur Terbaik"
 date: 2025-08-31
-layout: post
 categories: Teknologi
 tags: [Teknologi]
 ---
