@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://nono.my.id//sitemap.xml
