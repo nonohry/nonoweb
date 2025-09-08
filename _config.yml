@@ -61,7 +61,7 @@ menu:
 
 # Footer
 footer:
-  copyright: "Your Name. Contents under CC-BY-NC"
+  copyright: "nono.my.id. Contents under CC-BY-NC"
   credits:
     enabled: true
     url: "/credits"
