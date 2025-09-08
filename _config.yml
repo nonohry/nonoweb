@@ -97,6 +97,11 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10                # jumlah post per halaman
+paginate_path: "/page:num/" # URL halaman 2 -> /page2/, dst.
+
 
 # Private links (for broken wiki links)
 privatelinks:

@@ -27,3 +27,16 @@ Sebuah ruang untuk terus bertanya, menggali, dan menemukan makna di balik setiap
     </li>
   {% endfor %}
 </ul>
+
+<!-- Navigasi pagination -->
+<nav class="pagination" role="navigation" aria-label="Pagination" style="margin-top:1rem;">
+  {% if paginator.previous_page %}
+    <a class="btn" href="{{ paginator.previous_page_path | relative_url }}">&larr; Sebelumnya</a>
+  {% endif %}
+
+  <span style="margin:0 .5rem;">Halaman {{ paginator.page }} dari {{ paginator.total_pages }}</span>
+
+  {% if paginator.next_page %}
+    <a class="btn" href="{{ paginator.next_page_path | relative_url }}">Berikutnya &rarr;</a>
+  {% endif %}
+</nav>
