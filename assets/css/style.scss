@@ -55,6 +55,8 @@
 
   p {
     margin-bottom: 2rem;
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   a {
@@ -150,7 +152,7 @@
   :not(pre)>code {
     border-radius: 10px;
     background: var(--inline-code-bg-color);
-    color: var(---inlinecode-color);
+    color: var(--inline-code-color);
     padding: 0.15rem 0.2rem 0.05rem;
     white-space: normal;
   }
