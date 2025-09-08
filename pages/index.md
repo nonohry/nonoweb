@@ -9,8 +9,7 @@ title: "Mencari Jawaban, Menemukan Pertanyaan"
 # Mencari Jawaban, Menemukan Pertanyaan
 Selamat datang di **nono.my.id**, rumah digital bagi renungan dan catatan seorang penikmat ilmu.  
 Saya, **Nono Heryana**, percaya bahwa otak bukan sekadar hiasan kepala—ia adalah jendela untuk belajar tanpa batas.  
-Di sini saya berbagi pemikiran, refleksi, dan catatan perjalanan:  
-dari hal-hal sederhana hingga renungan yang dalam.  
+Di sini saya berbagi pemikiran, refleksi, dan catatan perjalanan dari hal-hal sederhana hingga renungan yang dalam.  
 Sebuah ruang untuk terus bertanya, menggali, dan menemukan makna di balik setiap pengetahuan.  
 
 📍 **Lokasi:** Dutch East Indies  
