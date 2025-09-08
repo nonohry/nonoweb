@@ -18,10 +18,13 @@ Sebuah ruang untuk terus bertanya, menggali, dan menemukan makna di balik setiap
 
 # Blog Terbaru
 
-{% for post in site.posts %}
-### [{{ post.title }}]({{ post.url | relative_url }})
-*{{ post.date | date: "%d %B %Y" }}*
-
-{{ post.excerpt }}
-
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: "%d %B %Y" }} — 
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
