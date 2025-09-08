@@ -35,10 +35,10 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
+title: "Nono Heryana"
+heading: "Nono Heryana"
 description: "A brief description of your site"
-url: "https://yoursite.com"
+url: "https://nono.my.id"
 baseurl: ""
 
 # Asset Configuration
