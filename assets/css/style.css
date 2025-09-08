@@ -119,6 +119,11 @@ p {
   font-weight: 400;
 }
 
+/* Tambahan untuk justify */
+p, li {
+  text-align: justify;
+}
+
 a {
   color: var(--text);
   text-decoration: underline;
