@@ -4,9 +4,20 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: "Mencari Jawaban, Menemukan Pertanyaan"
 ---
 
-Jekyll Garden is a simple theme that turns your Obsidian notes into a beautiful website. If you use Obsidian for note-taking, this theme makes it easy to publish your markdown files as a connected website with wiki-style links and full-text search.
+# Mencari Jawaban, Menemukan Pertanyaan
 
-Start by reading [[Getting Started]] to set up your own Jekyll Garden. Learn how to use [[Wiki Links]] to connect your notes, explore the [[Markdown Guide]] for formatting, and customize your site with the [[Customization]] guide. When you're ready to share your notes online, follow the [[Deployment]] instructions.
+Selamat datang di **nono.my.id**, rumah digital bagi renungan dan catatan seorang penikmat ilmu.  
+Saya, **Nono Heryana**, percaya bahwa otak bukan sekadar hiasan kepala—ia adalah jendela untuk belajar tanpa batas.  
+
+Di sini saya berbagi pemikiran, refleksi, dan catatan perjalanan:  
+dari hal-hal sederhana hingga renungan yang dalam.  
+Sebuah ruang untuk terus bertanya, menggali, dan menemukan makna di balik setiap pengetahuan.  
+
+---
+
+📍 **Lokasi:** Dutch East Indies  
+✉️ **Email:** [nonoheryana@gmail.com](mailto:nonoheryana@gmail.com)  
+
