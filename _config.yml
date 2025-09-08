@@ -63,7 +63,7 @@ menu:
 footer:
   copyright: "nono.my.id. Contents under CC-BY-NC"
   credits:
-    enabled: true
+    enabled: false
     url: "/credits"
     text: "Credits"
   github: "https://github.com/nonohry"
