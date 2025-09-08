@@ -35,11 +35,15 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Nono Heryana"
+title: "Mencari Jawaban, Menemukan Pertanyaan"
 heading: "Nono Heryana"
-description: "A brief description of your site"
+description: >
+    Kumpulan renungan seorang penikmat ilmu, <br>
+    yang percaya otak bukan sekadar hiasan kepala.
 url: "https://nono.my.id"
 baseurl: ""
+tagline: Belajar Tanpa Batas.
+location: Dutch East Indies
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
