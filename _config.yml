@@ -1,0 +1,21 @@
+title: Dr. Jane Smith
+description: Professor of Computer Science
+email: jane.smith@university.edu
+baseurl: ""
+url: "https://nonohry.github.io/nonoweb/"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - blog.md
+  - contact.md
